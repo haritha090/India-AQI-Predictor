@@ -175,7 +175,7 @@ Demoed across three real scenarios: Delhi winter smog, Kochi monsoon season, and
 
 **Haritha Kaki**
 Data Analyst | Data Science | Python · SQL · Power BI
-[LinkedIn](#) · [GitHub](https://github.com/haritha090)
+[LinkedIn](https://www.linkedin.com/in/kaki-haritha-93a3a8292/) · [GitHub](https://github.com/haritha090)
 
 ---
 
